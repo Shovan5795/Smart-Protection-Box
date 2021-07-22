@@ -34,6 +34,10 @@ low-cost device has been built for only 62.5$ and can be
 commercially exploited for smart security technologies in
 the local and foreign markets.
 
+The demo of the prototype can be found here:
+
+https://drive.google.com/drive/folders/1QAenkdwrU2umZ6tog2xOlpfBEybaxkGM?usp=sharing
+
 Proposed Method:
 
 
