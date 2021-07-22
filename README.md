@@ -35,3 +35,22 @@ commercially exploited for smart security technologies in
 the local and foreign markets.
 
 Proposed Method:
+
+
+![9](https://user-images.githubusercontent.com/77354495/126596718-237bf7ca-fb83-441d-b18f-84f913612e68.png)
+![Functional Diagram](https://user-images.githubusercontent.com/77354495/126596725-08016fe6-1246-41e1-8ef7-d40771c493e8.png)
+![System Diagram](https://user-images.githubusercontent.com/77354495/126596728-81d824e6-a623-40bb-b263-fafbdd569afa.png)
+![Untitled Sketch_schem - Copy v3](https://user-images.githubusercontent.com/77354495/126596713-b9377c28-3080-4339-8ec8-f8fe2076c8e6.jpg)
+
+
+Result Analysis:
+
+![table1](https://user-images.githubusercontent.com/77354495/126596758-c53d4c6b-49ec-401b-9ef6-5fc8fb4f27a0.JPG)
+![table2](https://user-images.githubusercontent.com/77354495/126596763-d347ced0-304e-4f5f-85b1-465d1a8d9f37.JPG)
+![table3](https://user-images.githubusercontent.com/77354495/126596764-39d2a4b7-043a-4b68-8bc3-26c520ac4915.JPG)
+
+
+
+
+
+
